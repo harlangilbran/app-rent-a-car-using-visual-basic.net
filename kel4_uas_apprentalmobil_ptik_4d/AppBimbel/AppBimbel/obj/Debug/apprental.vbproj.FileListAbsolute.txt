@@ -1,0 +1,17 @@
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\bin\Debug\apprental.exe.config
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\bin\Debug\apprental.exe
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\bin\Debug\apprental.pdb
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\bin\Debug\apprental.xml
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\bin\Debug\MySql.Data.dll
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\bin\Debug\Google.Protobuf.dll
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\bin\Debug\MySql.Data.xml
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.FormLogin.resources
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.FormPrograms.resources
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.FormTransaksi.resources
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.FormUtama.resources
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.Resources.resources
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.vbproj.GenerateResource.Cache
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.exe
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.xml
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.pdb
+C:\Users\harla\Downloads\AppBimbel\AppBimbel\obj\Debug\apprental.vbprojResolveAssemblyReference.cache
